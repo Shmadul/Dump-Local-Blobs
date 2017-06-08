@@ -6,4 +6,4 @@ Save Local SHSH Blobs using AP-Ticket, Works on Mac, Windows and Linux :)
 " --convert -s ~/Desktop/Local_Blob.shsh ~/Desktop/apticket.der" (without Quotes)
 3. Now look for the Local_Blob.shsh file on your desktop and your Done !
   -Enjoy :)
-
+ *Img4Tool Created By Tihmstar (https://github.com/tihmstar/img4tool) 
